@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/">
+        <file>icons/close.ico</file>
+        <file>icons/notepad.ico</file>
+        <file>icons/open.ico</file>
+        <file>icons/save.ico</file>
+        <file>icons/undo.ico</file>
+    </qresource>
+</RCC>
